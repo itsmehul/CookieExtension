@@ -1,0 +1,1 @@
+document.cookie = "username=Blockchain team";
