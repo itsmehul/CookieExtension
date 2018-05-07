@@ -8,6 +8,7 @@
     "content_scripts": [
         {
             "matches": [
+                "https://www.blockchainsemantics.com",
                 "https://www.blockchainsemantics.com/*"
             ],
             "js": [
